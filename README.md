@@ -1,4 +1,4 @@
-# Smart Helmet Project (Advanced Embedded System Design)
+# React JS Practice before working on a real website.
 
 * University of Washington
 * Nakseung Choi | Graduate Research Assistant @ CSE UW 
